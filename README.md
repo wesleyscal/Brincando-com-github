@@ -11,3 +11,7 @@
 \\5 Ediçao do codigo !!!
 
 \\sexta Ediçao do codigo !!! 
+
+\\7 Ediçao do codigo !!!
+
+\\oitava Ediçao do codigo !!! 
