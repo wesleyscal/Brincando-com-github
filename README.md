@@ -1,9 +1,11 @@
 # Brincando com github
 
-\\Primeiro Ediçao do codigo !!!
+\\1 Ediçao do codigo !!!
 
-\\Segunda  Ediçao do codigo !!!
+\\Segunda Ediçao do codigo !!!
 
-\\Terceira Ediçao do codigo !!!
+\\3 Ediçao do codigo !!!
 
-\\Quarta   Ediçao do codigo !!!
+\\Quarta Ediçao do codigo !!!
+
+\\5 Ediçao do codigo !!!
